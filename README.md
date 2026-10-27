@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Header Banner (Upload header.png to your repo or drag-and-drop it) -->
-  <img src="header.png" alt="HI, I'M FARHAN DANIAL" width="100%" />
+  <!-- Header Banner -->
+  <img src="./header.jpg" alt="HI, I'M FARHAN DANIAL" width="100%" />
 
   <br/><br/>
 
