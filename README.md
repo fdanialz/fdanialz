@@ -1,6 +1,10 @@
 <div align="center">
 
-  # Hi, I'm Farhan Danial Md Fadzil 👋
+  <!-- Header Banner (Upload header.png to your repo or drag-and-drop it) -->
+  <img src="header.png" alt="HI, I'M FARHAN DANIAL" width="100%" />
+
+  <br/><br/>
+
   ### Software Engineer • Systems Analyst • IoT & Automation Specialist
 
   <p align="center">
