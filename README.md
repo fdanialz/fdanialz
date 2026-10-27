@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="./header.jpg" alt="HI, I'M FARHAN DANIAL" width="100%" />
+  <img src="./banner.jpg" alt="HI, I'M FARHAN DANIAL" width="100%" />
 
   <br/><br/>
 
